@@ -11,7 +11,7 @@
 
 ##Certifications
 
-![Me 1]()
+![Me 1](https://avatars1.githubusercontent.com/u/75701220?s=460&u=a07f2ae8198468c2208232992167cb4fefd36afa&v=4)
 ![Certificate 2](https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
 
 [Go Home](./README.md)
