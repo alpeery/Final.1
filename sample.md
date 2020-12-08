@@ -6,9 +6,9 @@ print("Alexander Cowan")
 print("I am a third year here at mizzou")
 print("I'm excited to learn more about coding in python")
 print("I am a very musically inclined as well")
-
+```
 ### Project 2
-
+```Python
 
 import turtle
 
@@ -27,9 +27,10 @@ for i in range(70):
     painter.right(160)
 
 turtle.done()
-
+```
 
 ### Project 3
+```Python
 
 print("This program calculates an object's final position. \n")
 
@@ -77,3 +78,4 @@ while (do_calculation):
         another_calculation = input("Do you want to operform another calculation? (y/n): ")
         if (another_calculation != "y"):
                 do_calculation = false
+```
