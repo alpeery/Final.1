@@ -1,5 +1,5 @@
-#Home page
-##My name is Alex
+# Home page
+## My name is Alex
 
 I am a student here at mizzou, and I'm working on a degree in computer science at the moment.
 
