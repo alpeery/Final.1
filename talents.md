@@ -7,5 +7,6 @@
 3. Basic Python
 4. Video Game whiz
 
-[Go back](./README.md)
+[Go back to front page](./README.md)
+
 
