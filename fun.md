@@ -1,5 +1,5 @@
 # Fun for me
-## As of_right_now, my hobbies are playing games, and browsing instagram
+## As of right _now_, my hobbies are playing games, and browsing instagram
 ## I like to work out, and swim. 
 ### I'll list my favorites down below
 
