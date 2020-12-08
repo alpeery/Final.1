@@ -1,14 +1,14 @@
 # Here are a few codes I wrote
 
-### Python
+### Project 1
 ```Python
 print("Alexander Cowan")
 print("I am a third year here at mizzou")
 print("I'm excited to learn more about coding in python")
 print("I am a very musically inclined as well")
 
-### Python
-```Python
+### Project 2
+
 
 import turtle
 
@@ -29,8 +29,7 @@ for i in range(70):
 turtle.done()
 
 
-### Python
-```Python
+### Project 3
 
 print("This program calculates an object's final position. \n")
 
