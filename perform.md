@@ -1,6 +1,6 @@
 # Performance
 
-## This is a list of some of my _grades_ and my _certification_
+## This is a list of some of my _grades_ and a pic of me with my _certification_
 
 | Tests | Math | Programming |
 |-------|:-------:|-----:|
@@ -11,7 +11,7 @@
 
 ##Certifications
 
-![Me 1](
+![Me 1](./image.md)
 ![Certificate 2](https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
 
 [Go Home](./README.md)
