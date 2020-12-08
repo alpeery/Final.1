@@ -12,6 +12,6 @@
 ##Certifications
 
 ![Certificate 1](
-!Certificate 2 (https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
+![Certificate 2] (https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
 
 [Go Home](./README.md)
